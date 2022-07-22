@@ -45,6 +45,9 @@ However there are many other ways to do so.
           <head>
 
 
+
+`code`
+
 1. Attach your profile photo as shown below:
    
    ![me](img.jpg)
@@ -84,8 +87,13 @@ The way in which we see the [physics][1] is important.
 
 
 |   Column 1   |   Column 2  |
-|--------------|-------------|
+|--------------:|-------------:|
 | Header 1     | Header 2    |
 | Header 1     | Header 2    |
 | Header 1     | Header 2    |
 | Header 1     | Header 2    |
+
+
+This is a sample code
+
+    <html
