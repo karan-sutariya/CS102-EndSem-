@@ -97,3 +97,6 @@ The way in which we see the [physics][1] is important.
 This is a sample code
 
     <html
+
+
+<img src="elvis.jpg" width="50%">
