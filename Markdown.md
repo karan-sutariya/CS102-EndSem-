@@ -99,4 +99,12 @@ This is a sample code
     <html
 
 
-<img src="elvis.jpg" width="50%">
+x<sup>2</sup>//
+
+
+x<sup>2</sup>
+
+x^2^ 
+
+
+ffd
